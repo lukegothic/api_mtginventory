@@ -1,0 +1,6 @@
+[run]
+source = api_mtginventory
+omit = 
+    tests/*
+    autoapp.py
+
